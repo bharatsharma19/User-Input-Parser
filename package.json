@@ -1,6 +1,6 @@
 {
   "name": "@bharatsharma19/user-input-parser",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "main": "dist/index.js",
   "keywords": [
     "user-input",
@@ -18,5 +18,13 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/",
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bharatsharma19/User-Input-Parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bharatsharma19/User-Input-Parser/issues"
+  },
+  "homepage": "https://github.com/bharatsharma19/User-Input-Parser#readme"
 }
