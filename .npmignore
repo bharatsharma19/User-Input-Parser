@@ -1,0 +1,19 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore source files
+src/
+
+# Ignore TypeScript build info and lock files
+tsconfig.tsbuildinfo
+package-lock.json
+
+# Ignore logs and config files
+*.log
+.gitignore
+tsconfig.json
+
+# Optionally ignore test files
+tests/
+*.test.js
+*.spec.js
